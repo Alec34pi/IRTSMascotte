@@ -1,9 +1,9 @@
-# 🎭 IRTSMascotte
+# IRTSMascotte
 
 Ce dépôt contient les **animations de la mascotte** utilisée dans le chatbot de **FAIRE ESS Occitanie**.  
 Ces animations enrichissent l’expérience utilisateur en apportant une touche visuelle conviviale et dynamique.
 
-## 🎬 Contenu du dépôt
+## Contenu du dépôt
 
 Trois fichiers vidéo `.mp4` sont inclus, chacun correspondant à une animation spécifique du chatbot :
 
@@ -16,14 +16,14 @@ Trois fichiers vidéo `.mp4` sont inclus, chacun correspondant à une animation 
 - `tchatM.mp4`  
   ➤ Animation affichée **pendant les échanges dans le chat**
 
-## 💡 Utilisation
+## Utilisation
 
 Ces vidéos sont intégrées directement dans l’interface utilisateur du chatbot FAIRE ESS pour :
 - Accueillir les utilisateurs de manière chaleureuse
 - Dynamiser l’apparence du chatbot selon son état (ouvert, réduit, en cours de discussion)
 - Renforcer l’identité visuelle de FAIRE ESS avec une mascotte cohérente
 
-## 📂 Structure
+## Structure
 
 ```
 IRTSMascotte/
